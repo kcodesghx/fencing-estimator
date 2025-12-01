@@ -1,0 +1,9 @@
+sku,category,style,description,unit,unit_price
+POST_WOOD_4X4,post,wood,4x4 wood post,each,25.00
+RAIL_WOOD_2X4,rail,wood,2x4 wood rail,each,9.00
+PICKET_WOOD,picket,wood,Wood picket,each,3.00
+CONCRETE_BAG,concrete,any,80lb bag of concrete,bag,7.50
+FASTENERS_BOX,fastener,any,Screws / nails,box,18.00
+LABOR_FENCE_HOUR,labor,any,Fence install labor,hour,55.00
+MARGIN_DEFAULT,margin,any,Target margin percent,percent,30.00
+GATE_WOOD_SINGLE,gate,wood,Single wood gate,each,180.00

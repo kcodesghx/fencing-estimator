@@ -1,0 +1,14 @@
+### Basic estimate
+POST http://localhost:8000/estimate
+Content-Type: application/json
+
+{
+  "fence_length_ft": 120,
+  "style": "wood",
+  "posts_per_ft": 0.0833,
+  "gates": 1,
+  "labor_hours": 16,
+  "customer_name": "John Doe",
+  "job_address": "123 Main St",
+  "estimate_id": "EST-0001"
+}
